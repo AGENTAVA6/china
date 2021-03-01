@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+input{
+   text-align: center;
+}
+button{
+    width: 50%;
+}
+.main_div{
+    margin-left: 300px;
+}
